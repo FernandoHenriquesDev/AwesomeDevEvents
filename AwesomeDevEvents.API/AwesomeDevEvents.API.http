@@ -1,0 +1,6 @@
+@AwesomeDevEvents.API_HostAddress = http://localhost:5216
+
+GET {{AwesomeDevEvents.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
